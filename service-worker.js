@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.382e389fc6332f8163a105ec9f0aa48a.js"
+  "/precache-manifest.ec7808525cea2c4b6206023e17138c2f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "diplomget"});
